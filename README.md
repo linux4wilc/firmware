@@ -7,7 +7,7 @@ Microcip Embedded Wi-Fi® is a family of self-contained, low power and certified
 
 **[ATWILC1000](http://www.microchip.com/wwwproducts/en/ATWILC1000)** is IEEE 802.11 b/g/n/ IOT link controller utilizing highly optimized 802.11 and provides mulitple peripheral interfaces like SPI, and SDIO.  
 
-**[ATWILC3000](http://www.microchip.com/wwwproducts/en/ATWILC3000)** is IEEE 802.11 b/g/n/BT4.0 IOT link controller utilizing highly optimized 802.11-Bluetooth coexistence protocol and provides mulitple peripheral interfaces like UART, SPI, and SDIO.
+**[ATWILC3000](http://www.microchip.com/wwwproducts/en/ATWILC3000)** is IEEE 802.11 b/g/n/BLuetooth Low Energy 5.0 IOT link controller utilizing highly optimized 802.11-Bluetooth coexistence protocol and provides mulitple peripheral interfaces like UART, SPI, and SDIO.
 
 This repository provides ATWILC1000 WLAN firmware, and ATWILC3000 WLAN and BLE firmware. The baud rate of ble_firmware.bin is 115200 and flow control is disabled by default. 
 
