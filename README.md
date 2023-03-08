@@ -11,7 +11,7 @@ Microcip Embedded Wi-Fi® is a family of self-contained, low power and certified
 
 This repository provides ATWILC1000 WLAN firmware, and ATWILC3000 WLAN and BLE firmware. The baud rate of ble_firmware.bin is 115200 and flow control is disabled by default. 
 
-Refer to the [Wi-Fi Link Controller Linux User Guide](http://ww1.microchip.com/downloads/en/DeviceDoc/ATWILC1000-ATWILC3000-Wi-Fi-Link-Controller-Linux-User-Guide-DS70005328C.pdf) for information on how to use the wireless devices on linux and the [Wi-Fi Link Controller Linux Release Notes](http://ww1.microchip.com/downloads/en/DeviceDoc/Wi-Fi%20Link%20Controller%20Linux%20Driver%20Release%20Notes%20v15.2.pdf) for the latest release notes and revision history.
+Refer to the [Wi-Fi Link Controller Linux User Guide](http://ww1.microchip.com/downloads/en/DeviceDoc/ATWILC1000-ATWILC3000-Wi-Fi-Link-Controller-Linux-User-Guide-DS70005328C.pdf) for information on how to use the wireless devices on linux and the [Wi-Fi Link Controller Linux Documentation](https://www.microchip.com/en-us/product/ATWILC1000#document-table) for the latest release notes and revision history.
 
 The firmware files should be placed on the target's filesystem under /lib/firmware/mchp, or built as part of the linux kernel by placing it under kernel_src/firmware/mchp
 
